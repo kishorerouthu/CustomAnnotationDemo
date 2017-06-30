@@ -1,4 +1,4 @@
-package com.tutorial.annotation;
+package com.css.annotation;
 
 /**
  * Created by kishore on 8/2/17.

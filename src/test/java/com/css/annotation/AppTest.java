@@ -1,4 +1,4 @@
-package com.tutorial.annotation;
+package com.css.annotation;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
